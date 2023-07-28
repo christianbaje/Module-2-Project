@@ -1,4 +1,15 @@
-# Starter Next/Hardhat Project
+# AVAXETH-Module-2-Project-
+
+This is a simple React application that allows users to connect their MetaMask wallet, view their Ethereum balance, deposit and withdraw ETH, and see the balance in Philippine Pesos.
+
+## Prerequisites
+
+To run this application locally, make sure you have the following installed:
+
+- Node.js
+- MetaMask browser extension
+
+## Installation
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +21,11 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Author
+
+Christian Baje
+
+## License
+
+This project is licensed under the MIT License.

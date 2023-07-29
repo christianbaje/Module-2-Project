@@ -1,6 +1,6 @@
-# AVAXETH-Module-2-Project-
+# AVAXETH-Module-2-Project-Updated
 
-This is a simple React application that allows users to connect their MetaMask wallet, view their Ethereum balance, deposit and withdraw ETH, and see the balance in Philippine Pesos.
+This is a simple React application that allows users to connect their MetaMask wallet, view their Ethereum balance, deposit and withdraw ETH, and see the **balance converted ito Philippine Pesos.**
 
 ## Prerequisites
 
